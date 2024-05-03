@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleAPI", "PeopleAPI\PeopleAPI.csproj", "{BAFD414C-9110-4577-9872-DF9E01203103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFD414C-9110-4577-9872-DF9E01203103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFD414C-9110-4577-9872-DF9E01203103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFD414C-9110-4577-9872-DF9E01203103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFD414C-9110-4577-9872-DF9E01203103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {591CF93D-5D74-47E1-8B6E-67DA27235E48}
+	EndGlobalSection
+EndGlobal
